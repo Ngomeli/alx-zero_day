@@ -1,0 +1,2 @@
+# 0-Day 
+# It's a computer a computer software vulnerability unknown to those who should be interested in its mitagation (including the vendor of the target software). until the vulnerability is mitigated, hackers can eploit it to adversely affect programs, data, additional computers or a network.
